@@ -1,4 +1,4 @@
-# cloud-developer
+# Udacity Nanodegree - Cloud Developer
 content for Udacity's cloud developer nanodegree
 
 # REST API Monolithic (Feed & User services)
