@@ -1,7 +1,7 @@
 # cloud-developer
 content for Udacity's cloud developer nanodegree
 
-# Customer REST API
+# REST API Monolithic (Feed & User services)
 
 Feed REST API and User API Monolithic service.
 
